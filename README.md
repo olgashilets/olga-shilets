@@ -16,4 +16,4 @@ PostgreSQL + Streamlit analytics platform for equity market screening, instrumen
 
 ## Focus areas
 
-Financial analytics · Market risk · BI · FinTech · SQL · Python · PostgreSQL · Streamlit
+Financial analytics · Market risk · BI · SQL · Python · PostgreSQL
